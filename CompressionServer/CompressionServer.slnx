@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CompressionClient/CompressionClient/CompressionClient.csproj" />
+  <Project Path="CompressionServer/CompressionServer.csproj" />
+</Solution>
